@@ -23,3 +23,40 @@
 <br>
 <div align="center"> A Smart-Farming solution for farmers to ease the process of farming with the help of IOT and ML . It provides the farmers a way to monitor their farms with IOT smart solutions and early plants disease detection through ML. </div>
 
+### List of contents
+
+- [Introduction](#introduction)
+- [Tech Stack](#tech-stack)
+- [Dataset Description](#dataset-description)
+- [Results](#results)
+
+
+## Introduction
+[(Back to top)](#list-of-contents) <br><br>
+Plant disease can directly lead to stunted growth causing bad effects on yields. An economic loss of up to $20 billion per year is estimated all over the world. Diverse conditions are the most difficult challenge for researchers due to the geographic differences that may hinder the accurate identification. In addition, traditional methods mainly rely on specialists, experience, and manuals, but the majority of them are expensive, time-consuming, and labor-intensive with difficulty detecting precisely. Therefore, a rapid and accurate approach to identify plant diseases seems so urgent for the benefit of business and ecology to agriculture.<br><br>
+In  agriculture products, diseases  are the main  cause for the lessening  in  both  quality  and  production of  the  agriculture products.  Farmers puts their  great effort in picking best  seeds of plant  and also  provide proper environment for the growth of the plant, although there are lot of  diseases  that  affects  plant  result  in  plant  disease. <br><br>
+Recognition of the deleterious regions of plants can be considered as the solution for saving the reduction of crops and productivity. The past traditional approach for disease detection and classification requires enormous amount of time, extreme amount of work and continues farm monitoring.
+Our project is regarding Plant health monitoring system and its disease 
+detection using Machine Learning. Our project basically consists of two parts : 
+1) Plant health monitoring system :- These IOT device will give real time temperature, 
+humidity and moisture value to check good conditions for crops including fertility of soil.
+2) Plant disease detection :- We have developed an Android application that detects plant 
+diseases using Convolutional Neural Network (CNN) using Plant Village dataset will 
+contains 54,304 images of 14 different crops species.
+So, our main aim is to detect the plant disease in the early stage which can help us to 
+minimize the damage, reduce production costs, and rise the income.
+
+## Tech Stack
+[(Back to top)](#list-of-contents)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>   <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />   <img src="https://img.shields.io/badge/firebase-%230175C2.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>      <img src="https://img.shields.io/badge/python-%230175C2.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/iot-%230175C2.svg?&style=for-the-badge&logo=iot&logoColor=white"/>   <img src="https://img.shields.io/badge/ML-%230175C2.svg?&style=for-the-badge&logo=ML&logoColor=white"/>  
+
+
+## Dataset Description:
+[(Back to top)](#list-of-contents)
+
+
+
+## Results
+[(Back to top)](#list-of-contents) <br><br>
