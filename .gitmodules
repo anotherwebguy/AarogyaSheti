@@ -1,0 +1,9 @@
+[submodule "Plants-Health-Monitoring"]
+	path = Plants-Health-Monitoring
+	url = https://github.com/anotherwebguy/Plants-Health-Monitoring.git
+[submodule "Plants-Disease-Detection_using_TF_with_Keras"]
+	path = Plants-Disease-Detection_using_TF_with_Keras
+	url = https://github.com/anotherwebguy/Plants-Disease-Detection_using_TF_with_Keras.git
+[submodule "Plants-disease-detection"]
+	path = Plants-disease-detection
+	url = https://github.com/anotherwebguy/Plants-disease-detection.git
