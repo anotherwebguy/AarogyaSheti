@@ -22,7 +22,8 @@
 
 - [Introduction](#introduction)
 - [Tech Stack](#tech-stack)
-- [ScreenShots](#screenshots)
+- [ScreenShots](#screenshots) 
+- [License](#license)
 - [Contributors](#contributors)
 
 
@@ -51,8 +52,13 @@ minimize the damage, reduce production costs, and rise the income.
 ## ScreenShots:
 [(Back to top)](#list-of-contents)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/66346161/139522655-72f6cdfe-989c-4ac9-8d0e-2a525bec5cec.jpeg"><img src="https://user-images.githubusercontent.com/66346161/139522753-d445e13b-f45b-4576-936c-c7de3882bcc1.png"><img src="https://user-images.githubusercontent.com/66346161/139522746-3c4ca159-162e-46bf-bd58-b2b739c1d625.png"><img src="https://user-images.githubusercontent.com/66346161/139522420-ce04c7b7-0f4d-4439-a9dd-6e2c6de10e39.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522421-2a629bb0-c761-4df7-9181-9045a26c617d.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522422-78207708-31f4-4745-95c4-2dfe1ef865dc.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522424-006dae0e-cd04-4d1c-afcf-9adb1e1e9bee.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522460-8639b472-186d-41be-906d-f275feb582b0.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522463-d3bad267-a49b-4183-81fa-c49306d744cf.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522464-1c2bc86f-db85-44c6-b010-82a4226439c5.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522465-42cc8812-d920-45ab-a07f-4ad928ba44c6.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522467-11bc6160-33a0-4aa7-ba62-254214a8cb8d.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522478-a38f86c3-269c-465e-83cc-185303034dd5.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522479-9d419b5a-6de0-419c-a7b5-ae9512d2ae91.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522480-185fb49c-cb59-4559-9ef8-7a78c7df539d.jpeg" width=25%/> </div>
+<img src="https://user-images.githubusercontent.com/66346161/139522655-72f6cdfe-989c-4ac9-8d0e-2a525bec5cec.jpeg"><img src="https://user-images.githubusercontent.com/66346161/139522753-d445e13b-f45b-4576-936c-c7de3882bcc1.png"><img src="https://user-images.githubusercontent.com/66346161/139522746-3c4ca159-162e-46bf-bd58-b2b739c1d625.png"><img src="https://user-images.githubusercontent.com/66346161/139522420-ce04c7b7-0f4d-4439-a9dd-6e2c6de10e39.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522421-2a629bb0-c761-4df7-9181-9045a26c617d.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522422-78207708-31f4-4745-95c4-2dfe1ef865dc.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522424-006dae0e-cd04-4d1c-afcf-9adb1e1e9bee.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522460-8639b472-186d-41be-906d-f275feb582b0.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522463-d3bad267-a49b-4183-81fa-c49306d744cf.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522464-1c2bc86f-db85-44c6-b010-82a4226439c5.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522465-42cc8812-d920-45ab-a07f-4ad928ba44c6.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522467-11bc6160-33a0-4aa7-ba62-254214a8cb8d.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522478-a38f86c3-269c-465e-83cc-185303034dd5.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522479-9d419b5a-6de0-419c-a7b5-ae9512d2ae91.jpeg" width=25%/>    <img src="https://user-images.githubusercontent.com/66346161/139522480-185fb49c-cb59-4559-9ef8-7a78c7df539d.jpeg" width=25%/> <img src="https://user-images.githubusercontent.com/66346161/131769696-84a71a3f-e8ae-4c74-b562-8bca91aec05e.png"> </div>
 
+
+## License
+[(Back to top)](#list-of-contents) <br><br>
+
+Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/anotherwebguy/AarogyaSheti/blob/master/LICENSE) for more information.
 
 ## Contributors
 [(Back to top)](#list-of-contents) <br><br>
