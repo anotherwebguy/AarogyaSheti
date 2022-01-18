@@ -67,8 +67,8 @@ Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/anotherw
 	<tr>
 		<td>
 			<a href="https://github.com/anotherwebguy/AarogyaSheti/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=anotherwebguy/AarogyaSheti" />
-</a>
+                             <img src="https://contrib.rocks/image?repo=anotherwebguy/AarogyaSheti" />
+                        </a>
 		</td>
 	</tr>
 </table>
